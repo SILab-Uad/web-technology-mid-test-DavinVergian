@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="0.042" tests="6" failures="0">
-  <testsuite name="Root Suite" timestamp="2024-10-22T08:19:08" tests="0" time="0.000" failures="0">
+<testsuites name="Mocha Tests" time="0.039" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-10-22T09:07:32" tests="0" time="0.000" failures="0">
   </testsuite>
-  <testsuite name="Password Generator Tests" timestamp="2024-10-22T08:19:08" tests="6" file="C:\Users\M S I\Documents\KULIAH\SMS 3\Teknologi Web\Tugas Praktikum TekWeb\Praktikum_TekWeb\web-technology-mid-test-DavinVergian\test\test.js" time="0.008" failures="0">
+  <testsuite name="Password Generator Tests" timestamp="2024-10-22T09:07:32" tests="6" file="C:\Users\M S I\Documents\KULIAH\SMS 3\Teknologi Web\Tugas Praktikum TekWeb\Praktikum_TekWeb\web-technology-mid-test-DavinVergian\test\test.js" time="0.006" failures="0">
     <testcase name="Password Generator Tests should generate a password of the specified length" time="0.002" classname="should generate a password of the specified length">
     </testcase>
     <testcase name="Password Generator Tests should contain uppercase letters if selected" time="0.000" classname="should contain uppercase letters if selected">

@@ -4,7 +4,7 @@ import { generatePassword } from "../script.js";
 
 let totalTests = 0;
 let passedTests = 0;
-let failedTests = 0;
+let failedTests = 0; 
 
 describe("Password Generator Tests", () => {
   afterEach(function () {
